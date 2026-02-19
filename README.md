@@ -19,7 +19,7 @@
 
 | 메인 페이지 | 타임세일 이벤트 | 여행 후기 커뮤니티 |
 | :---: | :---: | :---: |
-| ![Main](image_1fe221.jpg) | ![Event](image_1fe244.jpg) | ![Community](image_1fe263.jpg) |
+| ![Main](메인페이지.png) | ![Event](image_1fe244.jpg) | ![Community](image_1fe263.jpg) |
 | 특별한 여행 상품 제공 | 선착순 한정 특가 딜 | 사용자 생생 후기 공유 |
 
 ---
